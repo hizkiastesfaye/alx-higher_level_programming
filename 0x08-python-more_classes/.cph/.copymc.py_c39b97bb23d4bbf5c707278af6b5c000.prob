@@ -1,0 +1,1 @@
+{"name":"Local: copymc","url":"/home/spark/alx/alx-higher_level_programming/0x08-python-more_classes/copymc.py","tests":[{"id":1682150872908,"input":"x**2+x+2 \n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/spark/alx/alx-higher_level_programming/0x08-python-more_classes/copymc.py","group":"local","local":true}
