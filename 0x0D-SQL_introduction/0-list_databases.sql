@@ -1,2 +1,2 @@
-__ lists all databases in my sql server
+-- lists all databases in my sql server
 SHOW DATABASES;
