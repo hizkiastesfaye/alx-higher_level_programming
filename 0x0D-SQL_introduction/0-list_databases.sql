@@ -1,3 +1,2 @@
-/* This sql file prints lists of databases */
-SHOW DATABASE
-;
+__ lists all databases in my sql server
+SHOW DATABASES
